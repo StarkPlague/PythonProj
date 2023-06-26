@@ -1,0 +1,3 @@
+a = "STRUKTURDATA∎PELAJARAN∎YANG∎SAYA∎SUKA"
+
+print(len(a))
